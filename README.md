@@ -8,6 +8,7 @@ I'm a...
 - Project manager
 - Graphic designer 
 - Artist
+
 ... and I can also code a bit too.
 
 I've been dabbling in R because I want to study the policy process using both qualitative and quantitative approaches. 
