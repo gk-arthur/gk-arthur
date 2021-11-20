@@ -5,7 +5,7 @@ I'm a...
 - Science communicator
 - Grant writer
 - Research administrator
-- Project manager
+- Project & program manager
 - Graphic designer 
 - Artist
 
